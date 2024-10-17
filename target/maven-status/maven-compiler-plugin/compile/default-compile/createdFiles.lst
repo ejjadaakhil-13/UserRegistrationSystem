@@ -1,0 +1,7 @@
+com\example\servlet\LogoutServlet.class
+com\example\servlet\DashboardServlet.class
+com\example\servlet\CheckEmailServlet.class
+com\example\servlet\LoginServlet.class
+com\example\servlet\EditProfileServlet.class
+com\example\servlet\RegisterServlet.class
+com\example\util\DatabaseConnection.class
